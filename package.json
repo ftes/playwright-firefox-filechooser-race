@@ -1,0 +1,6 @@
+{
+  "name": "playwright-firefox-filechooser-race",
+  "private": true,
+  "scripts": { "repro": "node repro.js" },
+  "dependencies": { "playwright": "1.65.1" }
+}
